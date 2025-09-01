@@ -54,10 +54,6 @@ While the website is fully functional, future improvements are planned, particul
        alt="Thumbnail 3" 
        width="300" 
        height="170">
-  <img src="https://github.com/IvanSicaja/2019.01.07_GitHub_Pidris-Website/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_4.png?raw=true" 
-       alt="Thumbnail 4" 
-       width="300" 
-       height="170">
 </p>
 
 ---
@@ -74,6 +70,7 @@ While the website is fully functional, future improvements are planned, particul
 </p>
 
 ---
+
 
 
 ### 📣 Hashtags Section
