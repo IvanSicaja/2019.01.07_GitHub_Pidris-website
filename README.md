@@ -42,19 +42,19 @@ While the website is fully functional, future improvements are planned, particul
 ### 📸 Project Snapshot
 
 <p align="center">
-  <img src="https://github.com/IvanSicaja/2023.08.01_GitHub_Movie-Recommendation-Web-App/raw/main/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_1.png" 
+  <img src="https://github.com/IvanSicaja/2019.01.07_GitHub_Pidris-Website/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_1.png?raw=true" 
        alt="Thumbnail 1" 
        width="300" 
        height="170">
-  <img src="https://github.com/yourusername/path/to/thumbnail2.png" 
+  <img src="https://github.com/IvanSicaja/2019.01.07_GitHub_Pidris-Website/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_2.png?raw=true" 
        alt="Thumbnail 2" 
        width="300" 
        height="170">
-  <img src="https://github.com/yourusername/path/to/thumbnail3.png" 
+  <img src="https://github.com/IvanSicaja/2019.01.07_GitHub_Pidris-Website/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_3.png?raw=true" 
        alt="Thumbnail 3" 
        width="300" 
        height="170">
-  <img src="https://github.com/yourusername/path/to/thumbnail4.png" 
+  <img src="https://github.com/IvanSicaja/2019.01.07_GitHub_Pidris-Website/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_4.png?raw=true" 
        alt="Thumbnail 4" 
        width="300" 
        height="170">
@@ -65,8 +65,8 @@ While the website is fully functional, future improvements are planned, particul
 ### 🎥 Video Demonstration
 
 <p align="center">
-  <a href="https://youtu.be/YgA_rae6ojw">
-    <img src="https://img.youtube.com/vi/YgA_rae6ojw/0.jpg" 
+  <a href="https://youtu.be/_BfQDd57cEc">
+    <img src="https://img.youtube.com/vi/_BfQDd57cEc/0.jpg" 
          alt="Watch the demo" 
          width="640" 
          height="360">
@@ -74,6 +74,7 @@ While the website is fully functional, future improvements are planned, particul
 </p>
 
 ---
+
 
 ### 📣 Hashtags Section
 
